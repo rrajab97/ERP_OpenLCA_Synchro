@@ -1,0 +1,22 @@
+site_name: ERP ↔ openLCA Synchronisation Kit
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Changelog: changelog.md
+  - Adoption View:
+      - Introduction: adoption-view/introduction.md
+      - Use Case: adoption-view/use-case.md
+      - Customer Journey: adoption-view/customer-journey.md
+      - Semantic Models: adoption-view/semantic-models.md
+      - Additional Resources: adoption-view/additional-resources.md
+  - Development View:
+      - Architecture Overview: development-view/architecture-overview.md
+      - Data Retrieval Flow: development-view/data-retrieval-flow.md
+      - API Specification: development-view/api-specification.md
+      - Reference Implementations: development-view/reference-implementations.md
+  - Operation View:
+      - Configuration Guide: operation-view/configuration-guide.md
+      - Service Integration: operation-view/service-integration.md
+      - Additional Resources: operation-view/additional-resources.md
