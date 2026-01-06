@@ -8,7 +8,7 @@ Es werden LCA-Impact-Kategorien aus Stücklisten (BoM) und Fertigungsaufträgen 
 
 
 
-\## Dokumentation (Tractus-X Style)
+\## Dokumentation
 
 Startseite: `docs/index.md`
 
