@@ -1,4 +1,5 @@
-site_name: ERP ↔ openLCA Synchronisation Kit
+site_name: ERP - openLCA Synchronisation
+
 theme:
   name: material
 
