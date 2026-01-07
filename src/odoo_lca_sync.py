@@ -4,10 +4,10 @@ import requests
 # ----------------------------------------------------------
 # Odoo-Verbindungsdaten
 # ----------------------------------------------------------
-ODOO_URL = "https://upb-rr.odoo.com"
-ODOO_DB = "upb-rr"
-ODOO_USER = "raminrajab2@googlemail.com"
-ODOO_PASSWORD = "1efd40ff8cf4f5e5f396de6a52b4bcd6211ac112"
+ODOO_URL = "https://DATENBANK.odoo.com"
+ODOO_DB = "DATENBANK"
+ODOO_USER = "EMAIL"
+ODOO_PASSWORD = "API-KEY"
 
 #  Modus:
 # "single"       -> einzelnes Produkt per Name
