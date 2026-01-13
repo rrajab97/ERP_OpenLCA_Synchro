@@ -2,7 +2,7 @@ site_name: ERP – openLCA Synchronisation Kit
 
 theme:
   name: material
-  color_mode: dark
+  color_mode: auto
 
 markdown_extensions:
   - pymdownx.superfences:
