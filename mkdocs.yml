@@ -3,9 +3,6 @@ site_name: ERP – openLCA Synchronisation Kit
 theme:
   name: material
   color_mode: dark
-  palette:
-    primary: "blue"
-    accent: "dark blue"
 
 markdown_extensions:
   - pymdownx.superfences:
