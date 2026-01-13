@@ -2,6 +2,7 @@ site_name: ERP – openLCA Synchronisation Kit
 
 theme:
   name: material
+  color_mode: auto
 
 markdown_extensions:
   - pymdownx.superfences:
@@ -29,9 +30,6 @@ nav:
   - Development View:
       - Architecture Overview: development-view/architecture-overview.md
       - Data Retrieval Flow: development-view/data-retrieval-flow.md
-      - API Specification: development-view/api-specification.md
-      - Reference Implementations: development-view/reference-implementations.md
   - Operation View:
       - Configuration Guide: operation-view/configuration-guide.md
-      - Service Integration: operation-view/service-integration.md
-      - Additional Resources: operation-view/additional-resources.md
+
