@@ -5,7 +5,7 @@ theme:
   color_mode: dark
   palette:
     primary: "blue"
-    accent: "light blue"
+    accent: "dark blue"
 
 markdown_extensions:
   - pymdownx.superfences:
