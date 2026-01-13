@@ -2,10 +2,13 @@ site_name: ERP – openLCA Synchronisation Kit
 
 theme:
   name: material
-  color_mode: dark
-  palette:
-    primary: "blue"
-    accent: "light blue"
+  color_mode: auto
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
 
   - pymdownx.details
   - pymdownx.tabbed:
