@@ -10,17 +10,7 @@ Es werden LCA-Impact-Kategorien aus Stücklisten (BoM) und Fertigungsaufträgen 
 
 \## Dokumentation
 
-Startseite: `docs/index.md`
-
-
-
-\- Adoption View: `docs/adoption-view/`
-
-\- Development View: `docs/development-view/`
-
-\- Operation View: `docs/operation-view/`
-
-
+[mkdocs Dokumentation](https://rrajab97.github.io/ERP_OpenLCA_Synchro/)
 
 \## Source Code
 
