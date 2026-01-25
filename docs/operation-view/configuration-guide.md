@@ -13,3 +13,4 @@
 ## Python Setup
 ```bash
 python -m pip install -U olca-ipc olca-schema fastapi uvicorn requests
+```

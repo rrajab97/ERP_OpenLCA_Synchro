@@ -13,6 +13,8 @@ Weil Odoo SaaS/Browser stark eingeschränkt ist (keine freien Python-Imports/Req
 Damit eine Komponente eindeutig auf einen LCA-Datenbank-Flow gemappt werden kann.
 
 ## Troubleshooting 
-- openLCA Ergebnis = 0 → Provider/Produktsystem prüfen, korrekte Datenbank/Methode wählen
-- Varianten übersprungen → UUID/Gewicht auf Variante statt Template pflegen
-- Odoo Feld nicht gefunden → technischen Feldnamen prüfen (Studio)
+|Fehlerbild                                                | Lösung                                                          |
+| -------------------------------------------------------- | --------------------------------------------------------------- |
+| openLCA Ergebnis = 0                                     | Provider/Produktsystem prüfen, korrekte Datenbank/Methode wählen|
+| Varianten übersprungen                                   | UUID/Gewicht auf Variante pflegen                               |
+| Odoo Feld nicht gefunden                                 | technischen Feldnamen prüfen (Studio)                           |

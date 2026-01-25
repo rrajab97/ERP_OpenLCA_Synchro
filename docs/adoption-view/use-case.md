@@ -27,6 +27,8 @@ Ziel: Beim Fertigungsauftrag wird der Gesamtimpact für die produzierte Menge au
 - Zusätzlich kann pro kg skaliert werden, falls benötigt.
 
 ### Ausgaben (mrp.production)
-- Gesamt-CO₂ (GWP) → **x_studio_total_co**
-- Impact-Tabelle → **x_studio_lca_impact_ergebnisse**
+|                            |                                    |
+| -------------------------  | ---------------------------------- |
+| Gesamt-CO₂ (GWP)           | **x_studio_total_co**              |
+| Impact-Tabelle             | **x_studio_lca_impact_ergebnisse** |
 
