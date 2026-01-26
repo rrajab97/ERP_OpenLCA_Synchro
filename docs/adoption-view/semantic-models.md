@@ -15,7 +15,7 @@
 |---------------------------------- | ------------------------------------ |
 |product.template                   | &nbsp; Produkt                              |
 |product.product                    | &nbsp; Variante          &nbsp;&nbsp;&nbsp; |
-| mrp.bom / mrp.bom.line            | &nbsp; Stückliste        &nbsp;&nbsp;&nbsp; |
+|mrp.bom / mrp.bom.line             | &nbsp; Stückliste        &nbsp;&nbsp;&nbsp; |
 |mrp.production                     | &nbsp; Fertigungsauftrag               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
 

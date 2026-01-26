@@ -26,8 +26,7 @@ Ziel: Beim Fertigungsauftrag wird der Gesamtimpact für die produzierte Menge au
 - Gesamtwert je Impact = Impact pro Stück × MO Menge
 - Zusätzlich kann pro kg skaliert werden, falls benötigt.
 
-### Ausgaben (mrp.production)
-|                            |                                    |
+|Ausgaben (mrp.production)   |                                    |
 | -------------------------  | ---------------------------------- |
 | Gesamt-CO₂ (GWP)           | **x_studio_total_co**              |
 | Impact-Tabelle             | **x_studio_lca_impact_ergebnisse** |

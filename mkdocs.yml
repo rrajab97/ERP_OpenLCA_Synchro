@@ -1,8 +1,10 @@
 site_name: ERP – openLCA Synchronisation Kit
 
 theme:
+  favicon: assets/images/favicon.ico
+  logo: assets/images/logo.png
   name: material
-  color_mode: auto
+  color_mode: dark
   features: 
     - navigation.path
     - navigation.indexes
